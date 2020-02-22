@@ -1,0 +1,12 @@
+2020-02-22 21:14:36 INFO  Client:Client:17 -Enter the total area of the house
+2020-02-22 21:14:38 INFO  Client:Client:23 -Enter your choice: 
+2020-02-22 21:14:38 INFO  Client:Client:24 -
+1.Standard Material
+2.Above Standard Material
+3.High Standard Material
+4.High standard Material and Fully automatic home
+2020-02-22 21:14:43 INFO  Client:Client:27 -Do you want a fully automated house(y/n)
+2020-02-22 21:14:45 INFO  Construction:Construction:12 -Entered the Construction method
+2020-02-22 21:14:46 INFO  Client:Client:34 -190000
+2020-02-22 21:14:47 INFO  Client:Client:40 -Exited from Construction method
+2020-02-22 21:14:47 INFO  Client:Client:107 -Do you want to change your choice y/n?

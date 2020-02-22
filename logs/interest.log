@@ -1,0 +1,17 @@
+2020-02-22 21:21:55 INFO  Client:Client:17 -Enter the principle amount
+2020-02-22 21:21:57 INFO  Client:Client:19 -Enter the time period
+2020-02-22 21:21:58 INFO  Client:Client:21 -Enter the rate of interest
+2020-02-22 21:22:00 INFO  Client:Client:24 -1.Simple Interest
+2.Compound Interest
+2020-02-22 21:22:00 INFO  Client:Client:25 -Enter the choice
+2020-02-22 21:22:01 INFO  Interest:Interest:12 -Entered the Simple Interest method
+2020-02-22 21:22:02 INFO  Client:Client:30 -25.00
+2020-02-22 21:22:03 INFO  Client:Client:36 -Exited from Simple Interest
+2020-02-22 21:22:03 INFO  Client:Client:48 -Do you want to continue Y/N?
+2020-02-22 21:22:07 INFO  Client:Client:24 -1.Simple Interest
+2.Compound Interest
+2020-02-22 21:22:07 INFO  Client:Client:25 -Enter the choice
+2020-02-22 21:22:09 INFO  Interest:Interest:29 -Entered the Compound Interest method
+2020-02-22 21:22:10 INFO  Client:Client:39 -26.91
+2020-02-22 21:22:11 INFO  Client:Client:45 -Exited from Compound Interest
+2020-02-22 21:22:11 INFO  Client:Client:48 -Do you want to continue Y/N?
